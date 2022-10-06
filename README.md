@@ -1,5 +1,5 @@
 # Blind75Solutions
-# Hi, I'm Melanie, here are my Blind 75 LeetCode solutions.
+# Hi, I'm Melanie :3 Here are my Blind 75 LeetCode solutions.
 ---
 
 Array
