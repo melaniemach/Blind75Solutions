@@ -22,4 +22,4 @@ public:
 
 //Time complexity: O(n^2)
 //Faster algo exists
-//Brute force used
+//Brute force solution
