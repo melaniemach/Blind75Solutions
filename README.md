@@ -1,6 +1,5 @@
 # Blind75Solutions
-# Hi, I'm Melanie.  This is where I'll be storing my LeetCode solutions.
-
+# Hi, I'm Melanie, here are my Blind 75 LeetCode solutions.
 ---
 
 Array
